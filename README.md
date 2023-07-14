@@ -1,8 +1,10 @@
 # Взаимодействие с блокчейном Ethereum
 
-[![Лицензия](https://img.shields.io/badge/лицензия-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Web3.py](https://img.shields.io/badge/web3.py-5.17.0-blue.svg)](https://github.com/ethereum/web3.py)
+
 
 Этот репозиторий содержит скрипт на языке Python, который позволяет взаимодействовать с локальным блокчейном Ethereum. Он предоставляет функции для проверки баланса счета и отправки Ether (ETH) между аккаунтами.
 
